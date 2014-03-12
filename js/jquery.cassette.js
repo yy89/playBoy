@@ -47,6 +47,7 @@
 	
 	$.Cassette.defaults 	= {
 		// song names. Assumes the path of each song is songs/name.filetype
+        //This is only thing you should change
 		songs			: [ 'PriscillaChan_piaoxue', 'Ylvis_TheFox', 'Beyond_hktk', 'Beyond_ghsy' ],
 		fallbackMessage	: 'HTML5 audio not supported',
 		// initial sound volume
